@@ -1,0 +1,6 @@
+{
+  "name": "Student Expense Tracker",
+  "description": "A modern, intuitive personal finance dashboard designed specifically for college students to track expenses, manage budgets, and analyze spending habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
